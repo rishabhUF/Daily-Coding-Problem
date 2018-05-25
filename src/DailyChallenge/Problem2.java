@@ -1,3 +1,4 @@
+package DailyChallenge;
 import java.util.Arrays;
 
 /*
