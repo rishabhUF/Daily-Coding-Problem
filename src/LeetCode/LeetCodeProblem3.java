@@ -1,5 +1,7 @@
 package LeetCode;
 
+import java.util.HashMap;
+
 public class LeetCodeProblem3 {
 
 	public int lengthOfLongestSubstring(String s) {
